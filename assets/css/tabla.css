@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    color: aquamarine;
+    }
+    
+    table{
+        border: solid 1px black;
+        background-color: cadetblue;
+    }
+    
+    th{
+        color: black;
+    }
